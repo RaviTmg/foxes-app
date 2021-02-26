@@ -1,22 +1,5 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.explorug.v3dev.twa",
-      "sha256_cert_fingerprints": [
-        "41:CE:E2:16:9D:21:53:C1:91:A5:FB:76:2C:E5:CB:1E:22:7B:79:11:69:A8:24:85:8B:C4:62:C3:CD:DD:58:9B"
-      ]
-    }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.explorug.v3dev.twa",
-      "sha256_cert_fingerprints": [
-        "DE:D7:FD:71:EF:C3:00:BA:F9:92:8A:35:BD:43:40:12:8D:51:53:CB:34:44:6F:51:0D:9B:C2:5B:51:C2:52:2F"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "app.netlify.upbeat_blackwell_dfb57b.twa",
+                   "sha256_cert_fingerprints": ["E7:63:AA:63:07:7A:BD:24:E0:9B:12:45:46:AE:B7:2C:F5:15:F7:7B:61:BB:CD:9F:1B:BC:FB:81:6E:AB:40:38"] }
+    }]
